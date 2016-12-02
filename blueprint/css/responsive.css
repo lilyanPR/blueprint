@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1024px){
+
+h1,h4,i{
+	margin-top: -150px;
+	text-align: center;
+}
+
+.caja1, .caja2, .caja3, .caja4{
+	display: inline-block;
+
+}
+
+
+}
